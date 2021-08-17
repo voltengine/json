@@ -1,0 +1,9 @@
+{
+	"dependencies": {},
+	"description": "JSON for Modern C++",
+	"git": "https://github.com/voltengine/json.git",
+	"id": "voltengine/json",
+	"keywords": [],
+	"license": "MIT",
+	"version": "3.9.1"
+}
